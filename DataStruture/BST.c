@@ -1,3 +1,6 @@
+
+//Martin Chibwe
+
 #include "BST.h"
 #include <stdlib.h>
 #include "fatal.h"
