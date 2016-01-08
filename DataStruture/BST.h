@@ -1,5 +1,5 @@
 
-
+//Martin Chibwe
 typedef int ElementType;
 
 #ifndef _BST_h
